@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Data Diri</string>
+    <string name="nama">Nama</string>
+    <string name="dateofbirth">TTL</string>
+    <string name="address">Alamat</string>
+    <string name="phone">Kontak</string>
+    <string name="hobby">Hobi</string>
+    <string name="wish">Keinginan</string>
+    <string name="hasil">Send</string>
+    <string name="result">Hasil</string>
+    <string name="gender">Gender</string>
+</resources>
